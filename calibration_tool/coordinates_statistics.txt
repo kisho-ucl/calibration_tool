@@ -1,0 +1,6 @@
+座標の平均値: x = 0.103822, y = -0.076542, z = -0.422882
+座標の最小値: x = 0.097434, y = -0.081207, z = -0.429000
+座標の最大値: x = 0.110737, y = -0.071844, z = -0.418000
+transform.transform.translation.x = 0.103822
+transform.transform.translation.y = 0.076542
+transform.transform.translation.z = 0.422882
